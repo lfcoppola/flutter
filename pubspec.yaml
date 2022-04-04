@@ -75,7 +75,7 @@ flutter:
   fonts:
     - family: Rubik
       fonts:
-        - asset: fonts/Rubik/Rubik-Black.ttf
+        - asset: fonts/Rubik/Rubik-Regular.ttf
 
 
   #
